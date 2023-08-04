@@ -1,0 +1,15 @@
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\bin\Debug\net6.0\ItProgerTutorialApp.exe
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\bin\Debug\net6.0\ItProgerTutorialApp.deps.json
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\bin\Debug\net6.0\ItProgerTutorialApp.runtimeconfig.json
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\bin\Debug\net6.0\ItProgerTutorialApp.dll
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\bin\Debug\net6.0\ItProgerTutorialApp.pdb
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\ItProgerTutorialApp.csproj.AssemblyReference.cache
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\ItProgerTutorialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\ItProgerTutorialApp.AssemblyInfoInputs.cache
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\ItProgerTutorialApp.AssemblyInfo.cs
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\ItProgerTutorialApp.csproj.CoreCompileInputs.cache
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\ItProgerTutorialApp.dll
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\refint\ItProgerTutorialApp.dll
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\ItProgerTutorialApp.pdb
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\ItProgerTutorialApp.genruntimeconfig.cache
+C:\Users\NK181\source\repos\ItProgerTutorialApp\ItProgerTutorialApp\obj\Debug\net6.0\ref\ItProgerTutorialApp.dll
